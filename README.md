@@ -14,5 +14,6 @@
   <li>Dictionaries      (Collections)---Lecture 19 </li>
   <li>Concession Stand  (Dictionaries)--Lecture 20 </li>
   <li>Random Numbers Program------------Lecture 21 </li>
+  <li>Numbers Guessing Game ------------Lecture 22 </li>
   <li></li>
 </ol>
