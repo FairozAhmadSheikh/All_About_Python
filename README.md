@@ -8,6 +8,6 @@
   <li>Format Specifiers-----------------Lecture 12  </li>
   <li>Loops-----------------------------Lecture 13 To 14 </li>
   <li>Collections(List, Tuples,Sets)----Lecture 15 </li>
-  <li>Exercise Programs (Collections)---Lecture 15 </li>
+  <li>Exercise Programs (Collections)---Lecture 16 </li>
   <li></li>
 </ol>
