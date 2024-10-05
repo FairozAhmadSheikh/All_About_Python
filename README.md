@@ -16,6 +16,7 @@
   <li>Random Numbers Program------------Lecture 21 </li>
   <li>Numbers Guessing Game ------------Lecture 22 </li>
   <li>Rock Paper Scissiors -------------Lecture 23 </li>
+  <li>Functions----------- -------------Lecture 24 </li>
   <li></li>
   <l3></l3>
 </ol>
