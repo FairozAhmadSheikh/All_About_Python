@@ -12,6 +12,7 @@
   <li>TWO Dimensional   (Collections)---Lecture 17 </li>
   <li>Quiz_Game using   (Collections)---Lecture 18 </li>
   <li>Dictionaries      (Collections)---Lecture 19 </li>
-  <li>Concession Stand  (Dictionaries)--Lecture 19 </li>
+  <li>Concession Stand  (Dictionaries)--Lecture 20 </li>
+  <li>Random Numbers Program------------Lecture 21 </li>
   <li></li>
 </ol>
