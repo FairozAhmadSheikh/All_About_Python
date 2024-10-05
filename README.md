@@ -9,5 +9,7 @@
   <li>Loops-----------------------------Lecture 13 To 14 </li>
   <li>Collections(List, Tuples,Sets)----Lecture 15 </li>
   <li>Exercise Programs (Collections)---Lecture 16 </li>
+  <li>TWO Dimensional   (Collections)---Lecture 17 </li>
+  <li>Quiz_Game using   (Collections)---Lecture 18 </li>
   <li></li>
 </ol>
