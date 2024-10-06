@@ -4,29 +4,29 @@ This repository contains a comprehensive list of topics covered in Python progra
 
 ## Topics Covered
 
-1. **String, fstrings** ----------------- Lecture 1 to 3
-2. **Arithmetic and math related** ----- Lecture 4 to 7
-3. **Logical operators** ---------------- Lecture 8
-4. **Ternary operators** ---------------- Lecture 9
-5. **String Methods** ------------------- Lecture 10 to 11
-6. **Format Specifiers** ---------------- Lecture 12
-7. **Loops** ---------------------------- Lecture 13 to 14
-8. **Collections (List, Tuples, Sets)** - Lecture 15
-9. **Exercise Programs (Collections)** -- Lecture 16
-10. **Two Dimensional (Collections)** ---- Lecture 17
-11. **Quiz Game using (Collections)** ---- Lecture 18
-12. **Dictionaries (Collections)** ------- Lecture 19
-13. **Concession Stand (Dictionaries)** -- Lecture 20
-14. **Random Numbers Program** ---------- Lecture 21
-15. **Numbers Guessing Game** ----------- Lecture 22
-16. **Rock Paper Scissors** -------------- Lecture 23
-17. **Functions** ------------------------- Lecture 24
-18. **Iterables** ------------------------- Lecture 25
-19. **Membership Operators** ------------- Lecture 26
-20. **List Comprehensions** -------------- Lecture 27
-21. **Match Case Statement (Switch Case)** - Lecture 28
-22. **Module** ---------------------------- Lecture 29
-23. **Python Banking Program** ------------ Lecture 30
+1. **String, fstrings** ------------------Lecture 1 to 3
+2. **Arithmetic and math related** -------Lecture 4 to 7
+3. **Logical operators** -----------------Lecture 8
+4. **Ternary operators** -----------------Lecture 9
+5. **String Methods** --------------------Lecture 10 to 11
+6. **Format Specifiers** -----------------Lecture 12
+7. **Loops** -----------------------------Lecture 13 to 14
+8. **Collections (List, Tuples, Sets)** --Lecture 15
+9. **Exercise Programs (Collections)** ---Lecture 16
+10. **Two Dimensional (Collections)** ----Lecture 17
+11. **Quiz Game using (Collections)** ----Lecture 18
+12. **Dictionaries (Collections)** -------Lecture 19
+13. **Concession Stand (Dictionaries)** --Lecture 20
+14. **Random Numbers Program** -----------Lecture 21
+15. **Numbers Guessing Game** ------------Lecture 22
+16. **Rock Paper Scissors** --------------Lecture 23
+17. **Functions** ------------------------Lecture 24
+18. **Iterables** ------------------------Lecture 25
+19. **Membership Operators** -------------Lecture 26
+20. **List Comprehensions** --------------Lecture 27
+21. **Match Case Statement(Switch Case)**-Lecture 28
+22. **Module** ---------------------------Lecture 29
+23. **Python Banking Program** -----------Lecture 30
 
 ## Author
 
