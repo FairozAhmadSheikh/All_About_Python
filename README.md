@@ -1,23 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Guide to Python</title>
-    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-        }
-    </style>
-</head>
-<body class="bg-gray-100 text-gray-900">
-    <div class="max-w-4xl mx-auto p-5">
-        <header class="text-center">
-            <h1 class="text-4xl font-bold mb-4">Guide To Python</h1>
-            <p class="text-lg mb-6">A comprehensive guide covering essential Python topics.</p>
-        </header>
-
         <section class="mb-10">
             <h2 class="text-2xl font-semibold mb-4">Topics Covered</h2>
             <ol class="list-decimal pl-5 space-y-2">
@@ -53,6 +33,3 @@
             <p class="text-sm">&copy; 2024 Fairoz Ahmad Sheikh. All rights reserved.</p>
         </footer>
     </div>
-
-</body>
-</html>
