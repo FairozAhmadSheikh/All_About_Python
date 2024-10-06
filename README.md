@@ -26,7 +26,8 @@ This repository contains a comprehensive list of topics covered in Python progra
 20. **List Comprehensions** --------------Lecture 27
 21. **Match Case Statement(Switch Case)**-Lecture 28
 22. **Module** ---------------------------Lecture 29
-23. **Python Banking Program** -----------Lecture 30
+23. **Variable Scope Scope Resolution** --Lecture 30
+24. **Banking Program**-------------------Lecture 31
 
 ## Author
 
