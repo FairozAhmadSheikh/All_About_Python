@@ -43,3 +43,48 @@ print(phone_num)
 # Keyword aguments order does not matter
 phone_num2=phone(country=91,first=952,last=1098,area=788)
 print(phone_num2)
+
+# Arbitary arguments means varying amount of argumets 
+"""We have two main types of arbitary arguments
+1: *args: allows to pass  non key argumnets
+2" **kwargs: allows to pass  keyword  arguments
+   *: Refers to unpacking operator
+"""
+# Example for args
+def add(*args):
+    total=0
+    for arg in args:
+        total+=arg
+    return total
+
+print(add(1,2,3,4,5))
+
+
+# Example for **kwargs
+
+def print_addr(**kwargs):
+    for key,value in kwargs.items():
+        print(f"{key} : {value}")
+    
+    
+print_addr(street="121 Botakadal",
+           city="Srinagar",
+           landmark="Masjid"
+           )    
+
+
+# Both args and kwargs example
+
+def shipping_label(*args,**kwargs):
+    for arg in args:
+        print(arg,end=" ")
+    print()
+    for value in kwargs.values():
+        print(value,end=" ")
+
+shipping_label("Dr","Ali","Abbas","Askari",
+               street="141 Pakistan",
+               city="Lahore",
+               landmark="Imam Bargah",
+               zipcode=190074
+               )
