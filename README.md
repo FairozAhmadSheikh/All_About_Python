@@ -21,6 +21,7 @@
   <li>Membership Operators--------------Lecture 26 </li>
   <li>List Comprehensions---------------Lecture 27 </li>
   <li>Match Case Statement(Switch Case)-Lecture 28 </li>
+  <li>Module----------------------------Lecture 29 </li>
   <li></li>
   <l3></l3>
 </ol>
