@@ -18,6 +18,7 @@
   <li>Rock Paper Scissiors -------------Lecture 23 </li>
   <li>Functions-------------------------Lecture 24 </li>
   <li>Itterables------------------------Lecture 25 </li>
+  <li>Membership Operators--------------Lecture 26 </li>
   <li></li>
   <l3></l3>
 </ol>
