@@ -18,11 +18,10 @@ random.shuffle(key)
 
 
 
-# User Input
+# User Input For Encryption
 
 plain_text=input("Enter A Message To Encrypt : ")
 cipher_text=""
-
 
 # Itterate Through every letter of the plain_text find its index in chars and then append it to encrypted it in a way that place the word of key [index ] in it 
 
@@ -34,10 +33,10 @@ print(f"Plain Text Entered : {plain_text}")
 print(f"Encrypted Text : {cipher_text}")
 
 
-# Decryption
+# User Input for Decryption
 cipher_text=input("Enter Cipher Text To decrypt :")
 plain_text=""
-
+# Decryption
 for letter in cipher_text:
     index=key.index(letter) 
     plain_text+=chars[index]

@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive list of topics covered in Python programming, ideal for learners and educators alike. Below is an outline of the topics and associated lectures.
 
-## Topics Covered
+## Topics Covered in Easy and Medium
 
 1. **String, fstrings** ------------------Lecture 1 to 3
 2. **Arithmetic and math related** -------Lecture 4 to 7
@@ -29,6 +29,10 @@ This repository contains a comprehensive list of topics covered in Python progra
 23. **Variable Scope Scope Resolution** --Lecture 30
 24. **Banking Program**-------------------Lecture 31
 25. **Python Slot Machine(Game)**---------Lecture 32
+
+## Topics Covered in Hard Level ==> Hard (Folder)
+
+1. **Encryption Program ** ---------------Lecture 01
 
 ## Author
 
