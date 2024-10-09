@@ -31,11 +31,12 @@ This repository contains a comprehensive list of topics covered in Python progra
 25. **Python Slot Machine(Game)**---------Lecture 32
 26. **Object Oriented Programming**-------Lecture 35
 27. **Class Variables**-------------------Lecture 36
+28. **Inheritance**-----------------------Lecture 37
 
 ## Topics Covered in Hard Level ==> Hard (Folder)
 
-28. **Encryption Program** ---------------Lecture 33
-29. **Hangman Game Program** -------------Lecture 34
+29. **Encryption Program** ---------------Lecture 33
+30. **Hangman Game Program** -------------Lecture 34
 
 ## Author
 
