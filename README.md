@@ -32,8 +32,8 @@ This repository contains a comprehensive list of topics covered in Python progra
 
 ## Topics Covered in Hard Level ==> Hard (Folder)
 
-1. **Encryption Program** ---------------Lecture 01
-1. **Hangman Game Program** ------------Lecture 02
+26. **Encryption Program** ---------------Lecture 33
+27. **Hangman Game Program** -------------Lecture 34
 
 ## Author
 
