@@ -29,6 +29,7 @@ This repository contains a comprehensive list of topics covered in Python progra
 23. **Variable Scope Scope Resolution** --Lecture 30
 24. **Banking Program**-------------------Lecture 31
 25. **Python Slot Machine(Game)**---------Lecture 32
+26. **Object Oriented Programming**-------Lecture 35
 
 ## Topics Covered in Hard Level ==> Hard (Folder)
 
