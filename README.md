@@ -33,11 +33,12 @@ This repository contains a comprehensive list of topics covered in Python progra
 27. **Class Variables**-------------------Lecture 36
 28. **Inheritance**-----------------------Lecture 37
 29. **Shopping Program**------------------Lecture 38
+30. **Types of Inheritances**------------------Lecture 39
 
 ## Topics Covered in Hard Level ==> Hard (Folder)
 
-30. **Encryption Program** ---------------Lecture 33
-31. **Hangman Game Program** -------------Lecture 34
+0.  **Encryption Program** ---------------Lecture 33
+1.  **Hangman Game Program** -------------Lecture 34
 
 ## Author
 
