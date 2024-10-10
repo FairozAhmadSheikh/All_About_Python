@@ -33,7 +33,8 @@ This repository contains a comprehensive list of topics covered in Python progra
 27. **Class Variables**-------------------Lecture 36
 28. **Inheritance**-----------------------Lecture 37
 29. **Shopping Program**------------------Lecture 38
-30. **Types of Inheritances**------------------Lecture 39
+30. **Types of Inheritances**-------------Lecture 39
+31. **Super Method**----------------------Lecture 40
 
 ## Topics Covered in Hard Level ==> Hard (Folder)
 
