@@ -36,6 +36,7 @@ This repository contains a comprehensive list of topics covered in Python progra
 30. **Types of Inheritances**-------------Lecture 39
 31. **Super Method**----------------------Lecture 40
 32. **PolyMorphism (Duck Typing)**--------Lecture 41
+33. **Static Methods**--------------------Lecture 42
 
 ## Topics Covered in Hard Level ==> Hard (Folder)
 
