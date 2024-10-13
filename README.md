@@ -40,7 +40,8 @@ This repository contains a comprehensive list of topics covered in Python progra
 34. **Class Methods**---------------------Lecture 43
 35. **Magic Methods(Dunder Methods)**-----Lecture 44
 36. **@ Property **-----------------------Lecture 45
-37. **@ Decorators **---------------------Lecture 46
+37. **Decorators **-----------------------Lecture 46
+38. **Exception Handling**----------------Lecture 47
 
 ## Topics Covered in Hard Level ==> Hard (Folder)
 
