@@ -43,7 +43,8 @@ This repository contains a comprehensive list of topics covered in Python progra
 37. **Decorators **-----------------------Lecture 46
 38. **Exception Handling**----------------Lecture 47
 39. **File Detection**--------------------Lecture 48
-40. **File Handling**---------------------Lecture 49
+40. **File Handling(Write JSON,CSV,TXT)**-Lecture 49
+41. **File Handling(Reading Data )**------Lecture 50
 
 ## Topics Covered in Hard Level ==> Hard (Folder)
 
