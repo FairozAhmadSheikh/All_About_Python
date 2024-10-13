@@ -4,10 +4,13 @@
 try: 
     number=int(input("Enter A NUMBER  : "))
     print(1/number)
+    # print("hello"+number)# If you want to check type error
 except ZeroDivisionError:
     print("Cant divide by Zero ")
 except ValueError:   # if user types something except a number
     print("Enter Numbers only please ")
+# except TypeError:
+#     print("Cant add strings to numbers ")
 
 finally:
     # Usefull in File Handling
