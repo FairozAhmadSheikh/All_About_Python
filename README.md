@@ -39,6 +39,7 @@ This repository contains a comprehensive list of topics covered in Python progra
 33. **Static Methods**--------------------Lecture 42
 34. **Class Methods**---------------------Lecture 43
 35. **Magic Methods(Dunder Methods)**-----Lecture 44
+36. **@ Property **-----------------------Lecture 45
 
 ## Topics Covered in Hard Level ==> Hard (Folder)
 
