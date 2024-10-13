@@ -42,6 +42,8 @@ This repository contains a comprehensive list of topics covered in Python progra
 36. **@ Property **-----------------------Lecture 45
 37. **Decorators **-----------------------Lecture 46
 38. **Exception Handling**----------------Lecture 47
+39. **File Detection**--------------------Lecture 48
+40. **File Handling**---------------------Lecture 49
 
 ## Topics Covered in Hard Level ==> Hard (Folder)
 
