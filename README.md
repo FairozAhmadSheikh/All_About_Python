@@ -45,6 +45,7 @@ This repository contains a comprehensive list of topics covered in Python progra
 39. **File Detection**--------------------Lecture 48
 40. **File Handling(Write JSON,CSV,TXT)**-Lecture 49
 41. **File Handling(Reading Data )**------Lecture 50
+42. **Date Time Module**------------------Lecture 51
 
 ## Topics Covered in Hard Level ==> Hard (Folder)
 
