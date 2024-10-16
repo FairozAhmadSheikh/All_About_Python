@@ -20,9 +20,10 @@ def set_alarm(alarm_time):
         # Check if the current time matches the alarm time
         if current_time==alarm_time:
             print("Time to wake up!")
-            pygame.mixer.music.play()
-            while pygame.mixer.music.get_busy():
-                time.sleep(1)
+            # This creates issue
+            # pygame.mixer.music.play()
+            # while pygame.mixer.music.get_busy():
+            #     time.sleep(1)
             is_running=False
         time.sleep(1)
 
