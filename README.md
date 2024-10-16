@@ -52,6 +52,10 @@ This repository contains a comprehensive list of topics covered in Python progra
 0.  **Encryption Program** ---------------Lecture 33
 1.  **Hangman Game Program** -------------Lecture 34
 
+## Projects Covered in Hard Level ==> Projects (Folder)
+
+0.  **Alarm Clock (With Music) ** --------Project 01
+
 ## Author
 
 Fairoz Ahmad Sheikh
