@@ -51,6 +51,7 @@ This repository contains a comprehensive list of topics covered in Python progra
 
 0.  **Encryption Program** ---------------Lecture 33
 1.  **Hangman Game Program** -------------Lecture 34
+2.  **Multi-Threading** ------------------Lecture 52
 
 ## Projects Covered in Hard Level ==> Projects (Folder)
 
